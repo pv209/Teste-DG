@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 
-<p align="center">🚀 Projeto de teste técnico da empresa DGSoluções</p>
+<p align="center">🚀 Projeto de teste técnico da empresa DGSolutions</p>
 
 ## Linguagens Utilizadas
 <ul>
