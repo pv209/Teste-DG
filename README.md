@@ -22,3 +22,4 @@
   ## Como rodar
   <p>Entrar na pasta do Backend, rodar "npm install" ,"npm run dev"</p>
   <p>Entrar na pasta do Front, rodar  "npm install","npm  run start"</p>
+  
