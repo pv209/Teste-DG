@@ -24,7 +24,6 @@ module.exports= {
  async listar(_req,res) {
     const [, data] = await connection.query(`
     SELECT * FROM users`) 
-    console.log(data);
     return res.json(data);
  }
 }
