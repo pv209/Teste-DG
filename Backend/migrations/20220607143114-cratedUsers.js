@@ -15,7 +15,7 @@ module.exports = {
         autoIncrement:true
       },
       username:{
-        type:Sequelize.TEXT
+        type:Sequelize.STRING
       },
       date:{
         type:Sequelize.DATE
